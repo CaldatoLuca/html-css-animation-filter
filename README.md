@@ -3,3 +3,8 @@
 _css_
 
 utilizzo di animation e filter su blocchi, foto e bottoni
+
+- animation
+- filter
+- transform: rotate
+- transition
